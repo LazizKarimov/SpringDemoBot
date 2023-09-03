@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "application.properties",
+      "type": "io.proj3ct.SpringDemoBot.config.BotConfig",
+      "sourceType": "io.proj3ct.SpringDemoBot.config.BotConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "application.properties.bot-name",
+      "type": "java.lang.String",
+      "sourceType": "io.proj3ct.SpringDemoBot.config.BotConfig"
+    },
+    {
+      "name": "application.properties.token",
+      "type": "java.lang.String",
+      "sourceType": "io.proj3ct.SpringDemoBot.config.BotConfig"
+    }
+  ],
+  "hints": []
+}
